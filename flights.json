@@ -1,0 +1,37 @@
+{
+      "flights": [
+        {
+          "flight_number": "AF1234",
+          "airline": "Air France",
+          "departure": "CDG",
+          "arrival": "JFK",
+          "departure_city": "Paris",
+          "arrival_city": "New York",
+          "departure_time": "14:30",
+          "arrival_time": "17:15",
+          "status": "À l'heure"
+        },
+        {
+          "flight_number": "U24567",
+          "airline": "easyJet",
+          "departure": "ORY",
+          "arrival": "LIS",
+          "departure_city": "Paris",
+          "arrival_city": "Lisbonne",
+          "departure_time": "16:20",
+          "arrival_time": "17:45",
+          "status": "Retardé"
+        },
+        {
+          "flight_number": "BA312",
+          "airline": "British Airways",
+          "departure": "CDG",
+          "arrival": "LHR",
+          "departure_city": "Paris",
+          "arrival_city": "Londres",
+          "departure_time": "18:00",
+          "arrival_time": "18:20",
+          "status": "À l'heure"
+        }
+  ]
+}
