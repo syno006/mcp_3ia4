@@ -5,6 +5,11 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
+    "asgiref>=3.11.0",
+    "django>=6.0",
+    "django-crispy-forms",
+    "djangorestframework>=3.16.1",
+    "djangorestframework-simplejwt>=5.5.1",
     "fastmcp>=2.13.1",
     "mcp[cli]>=1.22.0",
     "requests>=2.32.5",
